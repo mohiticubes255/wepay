@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-11 01:20:37 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-11 02:12:19 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-11 02:12:20 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-11 02:12:20 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-11 02:12:22 --> 404 Page Not Found: Solr/admin
+ERROR - 2020-11-11 02:12:27 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-11 02:12:28 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-11 02:45:34 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-11 03:40:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-11 04:43:21 --> 404 Page Not Found: Owa/auth
+ERROR - 2020-11-11 08:00:20 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-11 08:05:04 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-11 09:28:45 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-11 09:28:45 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-11 09:28:46 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-11 09:28:47 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-11 09:28:47 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-11 09:47:25 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-11 10:53:58 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-11 12:00:47 --> 404 Page Not Found: Env/index
+ERROR - 2020-11-11 13:38:44 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-11 13:44:46 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-11 14:02:17 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-11 17:22:26 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-11 19:16:45 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-11 23:45:05 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-11 23:45:05 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-11 23:45:06 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-11 23:45:06 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-11 23:45:08 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-11 23:45:10 --> 404 Page Not Found: Solr/admin

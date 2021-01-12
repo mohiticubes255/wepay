@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-10 00:21:10 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-10 00:31:53 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-10 00:31:53 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-10 00:31:53 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-10 00:31:55 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-10 00:31:59 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-10 00:31:59 --> 404 Page Not Found: Solr/admin
+ERROR - 2020-11-10 00:33:34 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-10 07:55:19 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-10 08:18:19 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-10 11:05:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-10 11:05:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-10 11:35:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-10 13:58:41 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-10 16:00:24 --> 404 Page Not Found: Env/index
+ERROR - 2020-11-10 16:38:01 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-10 16:38:01 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-10 16:38:10 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-10 16:38:13 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-10 16:38:17 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-10 16:44:57 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-10 16:59:09 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-10 18:28:06 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-10 19:14:46 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-10 19:14:48 --> 404 Page Not Found: Solr/admin
+ERROR - 2020-11-10 19:14:48 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-10 19:14:49 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-10 19:14:50 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-10 19:14:53 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-10 20:22:34 --> 404 Page Not Found: Env/index
+ERROR - 2020-11-10 21:17:10 --> 404 Page Not Found: Currentsettinghtm/index

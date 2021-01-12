@@ -1,0 +1,44 @@
+#ui_notifIt{
+    position: fixed;
+    top: 60px;
+    right: 10px;
+    cursor: pointer;
+    -webkit-box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.5);
+    -o-box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+	z-index:10000;
+}
+#ui_notifIt p{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+}
+
+/* Color setup */
+/* Configure this if you want */
+.notif-success{
+    background-color: #00a65a;
+    color: white;
+	
+}
+.notif-error{
+    background-color: orangered;
+    color: white;
+	
+}
+.notif-warning{
+    background-color: orange;
+    color: white;
+}
+.notif-info{
+    background-color: deepskyblue;
+    color: white;
+}
+.default{
+    background-color: #EEE;
+    color: #444;
+}

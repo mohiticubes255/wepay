@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-18 01:39:33 --> 404 Page Not Found: Owa/auth
+ERROR - 2020-11-18 04:29:39 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-18 04:29:39 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-18 04:29:40 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-18 04:29:43 --> 404 Page Not Found: Solr/admin
+ERROR - 2020-11-18 04:29:44 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-18 04:29:45 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-18 04:33:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-18 04:33:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-18 04:33:16 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2020-11-18 04:33:17 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2020-11-18 04:33:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-18 06:38:39 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-18 07:06:57 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-18 08:13:38 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-18 08:36:25 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-18 08:59:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-18 10:04:12 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-18 10:04:13 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-18 10:04:20 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-18 10:16:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-18 11:14:30 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-18 21:54:47 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-18 21:54:48 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-18 21:54:49 --> 404 Page Not Found: Solr/admin
+ERROR - 2020-11-18 21:54:50 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-18 21:54:52 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-18 21:54:53 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-18 23:33:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-18 23:55:09 --> 404 Page Not Found: Login-registerlogin-register/index

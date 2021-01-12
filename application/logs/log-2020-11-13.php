@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-13 04:31:13 --> 404 Page Not Found: Aboutabout/index
+ERROR - 2020-11-13 04:31:14 --> 404 Page Not Found: Home-advertise-us/index
+ERROR - 2020-11-13 04:31:14 --> 404 Page Not Found: Event-search-result/index
+ERROR - 2020-11-13 04:33:43 --> 404 Page Not Found: Hotel-search-result/index
+ERROR - 2020-11-13 04:35:36 --> 404 Page Not Found: Travel-search-result/index
+ERROR - 2020-11-13 04:37:47 --> 404 Page Not Found: Homestay-search-result/index
+ERROR - 2020-11-13 04:40:08 --> 404 Page Not Found: Destination-search-result/index
+ERROR - 2020-11-13 05:40:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-13 06:09:50 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-13 06:09:50 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-13 06:09:51 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-13 06:09:55 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-13 06:09:56 --> 404 Page Not Found: Solr/admin
+ERROR - 2020-11-13 06:10:00 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-13 06:37:33 --> 404 Page Not Found: Owa/auth
+ERROR - 2020-11-13 13:54:15 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-13 13:54:15 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-13 13:54:17 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-13 13:54:18 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-13 13:54:18 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-13 15:07:16 --> 404 Page Not Found: Git/config
+ERROR - 2020-11-13 17:27:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-13 17:28:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-13 18:19:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-13 18:19:18 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2020-11-13 20:48:06 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-13 20:48:06 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-13 20:48:08 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-13 20:48:09 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-13 20:48:10 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-13 20:48:11 --> 404 Page Not Found: Solr/admin

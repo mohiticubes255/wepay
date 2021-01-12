@@ -1,0 +1,146 @@
+.cricle-box {
+    width: 50px;
+    height: 50px;
+    margin: 0 15px 15px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 100%;
+    border: 2px solid #fff;
+    text-align: center;
+    line-height: 43px;
+}
+
+.member-table {
+    padding: 15px 0px;
+}
+.filterbox {
+    
+    margin: 15px 0px;
+}
+.filterbox select{width:auto;}
+
+.dropdown-menu.status-btn {
+    margin: 0;
+    padding: 0;
+}
+
+.dropdown-menu.status-btn a {
+    display: block;
+    color: #28a745;
+    font-weight: normal;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.dropdown-menu.status-btn li {
+    border-bottom: 1px solid #ccc;
+}
+
+.dropdown-menu.status-btn a:hover {
+    background: #f5f5f5;
+}
+
+.filterbox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.form-box {
+    padding: 15px;
+    background: #f5f5f5;
+    border-radius: 5px;
+}
+textarea.form-control.height {
+    height: 150px;
+    resize: none;
+}
+.add-img {
+    width: 70px;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
+img{max-width:100%;}
+.add-img {
+    position: relative;
+    margin-right: 5px;
+}
+
+.close-btn {
+    position: absolute;
+    right: -5px;
+    top: -10px;
+    width: 20px;
+    height: 20px;
+    line-height: 15px;
+    background: #E91E63;
+    text-align: center;
+    border-radius: 100%;
+    color: #fff;
+    font-weight: 600;
+	cursor:pointer;
+}
+#layoutSidenav_content h1 {
+    font-size: 24px;
+}
+.about-bg {
+    position: relative;
+}
+.update-header {
+    padding: 5px 15px;
+    background: #f8a71a;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 18px;
+}
+.member-table strong {
+    font-weight: 400;
+}
+.form-control.selectbox {
+    padding: 0;
+}
+
+.form-control.selectbox  button {
+    width: 100%;
+    text-align: left;
+}
+
+.form-control.selectbox button b.caret {
+}
+
+.form-control.selectbox button:after {
+    float: right;
+    margin-top: 10px;
+}
+
+ul.multiselect-container.dropdown-menu li {
+    padding: 5px;
+}
+
+ul.multiselect-container {
+    width: 100%;
+    padding: 5px 15px;
+}
+
+ul.multiselect-container {
+    width: 95.4%;
+    padding: 5px 15px;
+}
+ul.multiselect-container li a:focus{outline:none;}
+ul.multiselect-container.dropdown-menu.show {
+    height: 300px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.delete_booking {
+    margin-top: 5px;
+}
+.timeSlotTableList td:hover {
+    background: #f8a71a;
+    color: #fff;
+    cursor: pointer;
+}
+.timeSlotTableList td.active {
+    background: #f8a71a;
+    color: #fff;
+    cursor: pointer;}

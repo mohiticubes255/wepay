@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-12 01:17:25 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-12 01:55:56 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-12 03:37:42 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-12 03:37:42 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-12 03:37:44 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-12 03:37:51 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-12 03:37:56 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-12 06:27:59 --> 404 Page Not Found: Owa/auth
+ERROR - 2020-11-12 07:33:48 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-12 09:31:43 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-12 09:58:27 --> 404 Page Not Found: Env/index
+ERROR - 2020-11-12 09:58:27 --> 404 Page Not Found: Api/.env
+ERROR - 2020-11-12 11:15:59 --> 404 Page Not Found: Env/index
+ERROR - 2020-11-12 11:59:12 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-12 13:42:54 --> 404 Page Not Found: 169254169254/latest
+ERROR - 2020-11-12 13:54:48 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-12 14:27:15 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-12 15:27:44 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-12 15:27:44 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-12 15:27:45 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-12 15:27:45 --> 404 Page Not Found: Solr/admin
+ERROR - 2020-11-12 15:27:48 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-12 15:27:48 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-12 16:31:07 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-12 17:16:05 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-12 17:29:05 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-12 17:29:05 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-12 17:29:08 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-12 17:29:16 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-12 17:29:17 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-12 23:33:54 --> 404 Page Not Found: Robotstxt/index

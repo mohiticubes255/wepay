@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-08 01:03:50 --> 404 Page Not Found: Owa/auth
+ERROR - 2020-11-08 02:48:41 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-08 02:48:41 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-08 02:48:42 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-08 02:48:43 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-08 02:48:43 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-08 08:29:51 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-08 08:29:51 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-08 08:29:52 --> 404 Page Not Found: Solr/admin
+ERROR - 2020-11-08 08:29:53 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-08 08:29:54 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-08 08:29:55 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-08 10:56:41 --> 404 Page Not Found: Env/index
+ERROR - 2020-11-08 10:56:42 --> 404 Page Not Found: Git/config
+ERROR - 2020-11-08 10:56:43 --> 404 Page Not Found: Composerjson/index
+ERROR - 2020-11-08 10:56:44 --> 404 Page Not Found: Composerlock/index
+ERROR - 2020-11-08 10:56:47 --> 404 Page Not Found: Debug/default
+ERROR - 2020-11-08 13:39:36 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-08 13:39:37 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-08 13:39:37 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-08 13:39:37 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-08 13:39:38 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-08 14:23:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-08 14:23:39 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2020-11-08 14:23:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-08 18:02:35 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-08 23:09:29 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-08 23:09:32 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-11-08 23:09:32 --> 404 Page Not Found: Solr/admin
+ERROR - 2020-11-08 23:09:33 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-08 23:09:34 --> 404 Page Not Found: Console/index
+ERROR - 2020-11-08 23:09:37 --> 404 Page Not Found: Vendor/phpunit
