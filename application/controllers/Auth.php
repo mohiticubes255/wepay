@@ -56,6 +56,33 @@ class Auth extends CI_Controller{
 
         $this->base_domain = base_url();
 }
+    public function mail()
+    {
+        $config['protocol']    = 'smtp';
+        $config['smtp_host']    = 'smtp.gmail.com';
+        $config['smtp_port']    = '465';
+        $config['smtp_crypto']      = 'ssl';
+        $config['smtp_timeout'] = '7';
+        $config['smtp_user']    = 'mohit.chack@icubeswire.com';
+        $config['smtp_pass']    = '********';
+        $config['charset']    = 'utf-8';
+        $config['newline']    = "\r\n";
+        $config['mailtype'] = 'html'; // or html
+        $config['validation'] = TRUE; // bool whether to validate email or not      
+
+        $this->email->initialize($config);
+
+
+        $this->email->from('mohit.chack@icubeswire.com', 'Skanray');
+        $this->email->to('mohit.chack@icubeswire.com'); 
+
+        $this->email->subject('Email Test');
+        $this->email->message('Testing the email class.');  
+
+        $this->email->send();
+
+        echo $this->email->print_debugger();
+    }
     public function encode_decode()
     {
         $this->load->library('encrypt');
